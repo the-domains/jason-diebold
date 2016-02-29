@@ -1,0 +1,28 @@
+name: Jason Diebold
+favicon: null
+layout_spectrum: 0.2676171588245779
+typography_spectrum: 0.1879514390602708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#030706'
+    - '#ffffff'
+    - '#64aee7'
+    - '#a21924'
+    - '#4b5e29'
+  brandStrength: 0.3480078645516187
+  lightness: 0.18800660665147007
+  saturation: 0.48573019728064537
+  rhythmicContrast: 0.5732972000259906
+purpose: []
